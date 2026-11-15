@@ -1,1 +1,0 @@
-# gafa-pptx-crafter
